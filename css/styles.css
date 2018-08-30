@@ -286,7 +286,7 @@ ul.icons a:hover {
     -ms-transition: all 0.1s ease-in-out;
     transition: all 0.1s ease-in-out;
 }
-.content-block a:hover {
+#contact a:hover {
     opacity: 0.5;
 }
 /*.no-touch .content-block .wrapper {
@@ -324,7 +324,6 @@ ul.icons a:hover {
    top: 0;
    width: 100%;
 }
-
 
 .button, .bit-offers, .bit-rsvp {
     font-family: Dosis;
